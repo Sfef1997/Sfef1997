@@ -17,7 +17,7 @@
 
 
 ### Connect with Me :
-https://www.linkedin.com/in/mohanad-sfef-33215322a/
+<a href="https://www.linkedin.com/in/mohanad-sfef-33215322a/" target="blank" />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
