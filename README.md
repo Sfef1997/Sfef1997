@@ -17,7 +17,6 @@
 
 
 ### Connect with Me :
-<a href="https://www.linkedin.com/in/mohanadsfef" target="_blank"><img src="https://img.shields.io/badge/Mohanad%2sfef-33215322a?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 https://www.linkedin.com/in/mohanad-sfef-33215322a/
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,9 +29,3 @@ https://www.linkedin.com/in/mohanad-sfef-33215322a/
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
