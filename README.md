@@ -14,7 +14,7 @@
 - 🏢 I'm a Frontend Developer
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to Fronted development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 💻 I use daily: .js, .ReactJs, .Htnl, .Css
+- 💻 I use daily: .js, .ReactJs, .Html, .Css
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
